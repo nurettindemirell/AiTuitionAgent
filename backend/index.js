@@ -5,6 +5,10 @@ const axios = require("axios");
 const OpenAI = require("openai");
 const path = require("path");
 
+
+const app = express();
+app.use(cors());
+app.use(express.json());
 app.use(express.static(path.join(__dirname, "public")));
 
 app.get("/", (req, res) => {
@@ -12,9 +16,6 @@ app.get("/", (req, res) => {
 });
 
 
-const app = express();
-app.use(cors());
-app.use(express.json());
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 const MODEL = process.env.OPENAI_MODEL || "gpt-4o-mini";
