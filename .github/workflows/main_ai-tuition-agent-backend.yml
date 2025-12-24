@@ -5,6 +5,9 @@ on:
     branches:
       - main
   workflow_dispatch:
+permissions:
+  contents: read
+  id-token: write
 
 jobs:
   build:
@@ -53,3 +56,4 @@ jobs:
           app-name: ai-tuition-agent-backend
           slot-name: Production
           package: backend
+
