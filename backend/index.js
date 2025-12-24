@@ -3,6 +3,14 @@ const express = require("express");
 const cors = require("cors");
 const axios = require("axios");
 const OpenAI = require("openai");
+const path = require("path");
+
+app.use(express.static(path.join(__dirname, "public")));
+
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
+});
+
 
 const app = express();
 app.use(cors());
