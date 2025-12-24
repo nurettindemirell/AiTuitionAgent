@@ -54,7 +54,7 @@ export default function App() {
 
     //Gateway e gidiyoruz
     try {
-      const resp = await fetch("http://localhost:3001/gateway", {
+      const resp = await fetch("/gateway", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ text })
