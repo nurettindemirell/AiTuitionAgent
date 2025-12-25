@@ -12,6 +12,9 @@ işlemlerini doğal dil ile yapmasını sağlar.
 GitHub Repository:  
 https://github.com/nurettindemirell/AiTuitionAgent
 
+Azure Website Link:
+ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net
+
 --
 ## Proje Özeti
 
