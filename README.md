@@ -25,7 +25,7 @@ Example messages:
 ## Live Links
 
 * **GitHub Repository:** [https://github.com/nurettindemirell/AiTuitionAgent](https://github.com/nurettindemirell/AiTuitionAgent)
-* **Azure Backend:** [https://ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net](https://ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net)
+* **Azure Website:** [https://ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net](https://ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net)
 
 ---
 
