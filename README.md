@@ -1,3 +1,11 @@
+## Live Links
+
+* **Youtube Presentation Video:** [https://www.youtube.com/watch?v=JEolW9EkkZU]
+* **GitHub Repository:** [https://github.com/nurettindemirell/AiTuitionAgent](https://github.com/nurettindemirell/AiTuitionAgent)
+* **Azure Website:** [https://ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net](https://ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net)
+
+
+
 # AI Tuition Agent
 
 AI Tuition Agent is a chat-based application developed for the **SE4458 course assignment**. It allows students to perform tuition-related actions by simply chatting with the system in natural language, instead of calling APIs or navigating forms.
@@ -5,8 +13,6 @@ AI Tuition Agent is a chat-based application developed for the **SE4458 course a
 The project builds on the Midterm APIs and adds an **AI-powered conversational layer** using an API Gateway architecture.
 
 ---
-## Youtube Presentation Video: [https://www.youtube.com/watch?v=JEolW9EkkZU]
-
 
 ## Features
 
@@ -21,13 +27,6 @@ Example messages:
 * "check my tuition"
 * "pay tuition for fall 2026 15000"
 * "show unpaid tuition for spring 2026"
-
----
-
-## Live Links
-
-* **GitHub Repository:** [https://github.com/nurettindemirell/AiTuitionAgent](https://github.com/nurettindemirell/AiTuitionAgent)
-* **Azure Website:** [https://ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net](https://ai-tuition-agent-backend-hvguhnc6aqbnbvdb.polandcentral-01.azurewebsites.net)
 
 ---
 
